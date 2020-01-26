@@ -1,3 +1,7 @@
+## Acknowledgements
+Water You Using was developed for BoilerMake VII by Levi Pinkard, Mitchell Augustin, Sabrina Eichenberger, and Chen Kai Chuang.
+
+
 ## Note on this respository
 This repository contains all of the source code from all of our other repositories. Due to the size of the frontend's NODE_MODULES folder, that folder has been excluded. Please see the frontend's dedicated repository to compile it.
 
